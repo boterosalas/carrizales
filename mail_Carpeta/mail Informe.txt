@@ -1,0 +1,58 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: mail.ai
+Modo de color: Color CMYK
+Perfil de color: Japan Web Coated (Ad)
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 1200 px x 2767,7273 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Roboto Thin (TrueType)
+Roboto Light (OTF)
+Roboto Black (OTF)
+Roboto Regular (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Usuarios/rugibra/Descargas/hass-avocado-945418.jpg
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 17179K, 2932 por 2000 p’xeles
+Dimensiones: 738,529 por 503,772 puntos 
+Resoluci—n: 285,844 por 285,844 p’xeles por pulgada
+
+
+/Usuarios/rugibra/Descargas/avocado-2351191.jpg
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 46500K, 5312 por 2988 p’xeles
+Dimensiones: 1466,939 por 825,153 puntos 
+Resoluci—n: 260,722 por 260,722 p’xeles por pulgada
